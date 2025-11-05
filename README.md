@@ -16,21 +16,21 @@ zekt.dev - the ambition is to orchestrate the future &amp; to ease workflow coll
 ---
 
 ### 🧭 About Us
-**Zekt.dev** is redefining how teams provision infrastructure by offering a unified platform that exposes standardized **infrastructure pipelines via API or GitHub integration**.  
-We leverage **federated identity (Azure AD / GitHub OIDC)** and **policy-driven automation** to make secure deployments effortless — without managing IaC credentials.
+**Zekt.dev** is redefining how teams interact with each other or their customers without having to create complex API frameworks or plumbing infrastructure in between companies. Zekt will with your consent (using Github app) gather meta-data on assigned repositories and feed that meta-data to your desired customers - which they can then act upon!
+We leverage your **federated GitHub Identity)** and **Zekt Github Apps** to enable collaboration capabilities between intended targeted customers of those events.
 
-Our vision: **“Deploy anywhere. Govern everywhere.”**
+Our vision: **“Collaborate through zekt - using github workflows across organizations”**
 
 ---
 
 ### 🧩 What We Build
 | Area | Description |
 |------|--------------|
-| 🧠 **Zekt Core** | The orchestration engine powering API-driven deployments |
-| 🌐 **Zekt Portal** | A lightweight web portal for managing environments and tenants |
-| ⚙️ **Zekt SDK** | TypeScript SDK for building custom workflows and integrations |
-| 🔐 **Identity Mesh** | Secure federation between GitHub, Azure, and cloud-native identities |
-| 💸 **FinOps Integration** | Cost visibility and usage insights per deployment and team |
+| 🧠 **OrcheZekt** | The orchestration engine powering the brokering of events between providers and consumers |
+| 🌐 **Zekt Portal** | A lightweight web portal for managing WHO you want to consume from or share events with |
+| ⚙️ **Zekt Apps** | The Github Apps - for OAuth flows and consent of permissions - transparency is key |
+| 🔐 **Zekt security** | Secure integration between GitHub & Azure (our computing backbone) & our customers |
+| 💸 **Zekt Analytics** | Visibility and usage insights per deployment and team |
 
 ---
 
