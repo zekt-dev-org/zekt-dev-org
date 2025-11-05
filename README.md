@@ -6,7 +6,7 @@ zekt.dev - the ambition is to orchestrate the future &amp; to ease workflow coll
   <img src="./zekt-black.png" width="120" alt="Zekt.dev Logo"/>
 </p>
 
-<h1 align="center">🚀 Zekt.dev</h1>
+<h1 align="center">⟁ - Zekt.dev</h1>
 
 <p align="center">
   <strong>Federated Infrastructure. Standardized Pipelines. Zero Credentials.</strong><br>
