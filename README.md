@@ -3,7 +3,7 @@ zekt.dev - the ambition is to orchestrate the future &amp; to ease workflow coll
 
 <!-- Optional banner/logo -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg" width="120" alt="Zekt.dev Logo"/>
+  <img src="https://github.com/zekt-dev-org/zekt-dev-org/zekt-black.png" width="120" alt="Zekt.dev Logo"/>
 </p>
 
 <h1 align="center">🚀 Zekt.dev</h1>
