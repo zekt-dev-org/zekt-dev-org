@@ -49,8 +49,7 @@ Our vision: **“Collaborate through zekt - using github workflows across organi
 | Repo | Description |
 |------|--------------|
 | [**zekt-core**](https://github.com/zekt-dev/zekt-core) | Core provisioning engine and API |
-| [**zekt-portal**](https://github.com/zekt-dev/zekt-portal) | Frontend portal built with Next.js and Tailwind |
-| [**zekt-sdk**](https://github.com/zekt-dev/zekt-sdk) | TypeScript SDK for API integration |
+| [**zekt-portal**](https://github.com/zekt-dev/zekt-portal) | Frontend portal built with .js and .ts |
 | [**zekt-examples**](https://github.com/zekt-dev/zekt-examples) | Quickstart templates and sample workflows |
 
 ---
