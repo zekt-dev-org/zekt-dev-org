@@ -9,8 +9,8 @@ zekt.dev - the ambition is to orchestrate the future &amp; to ease workflow coll
 <h1 align="center">⟁ - Zekt.dev</h1>
 
 <p align="center">
-  <strong>Federated Infrastructure. Standardized Pipelines. Zero Credentials.</strong><br>
-  Infrastructure as a Service for modern DevOps teams — secure, API-driven, and cloud-native.
+  <strong>Ease collaboration without having your worlds collide</strong><br>
+  As developers, we know that acting programatically on events within an organization can be hard, but between organizations are even harder. With the isolation model that Github offers (which is awesome from a security perspective) it often hampers collaboration capabilities between disjointed teams or organizations - on a Github level. With Zekt - customers can overcome these roadblocks - by having zekt act as the trusted broker of events occuring on one side of the organization or repository - feeding them to their intended consumers.
 </p>
 
 ---
