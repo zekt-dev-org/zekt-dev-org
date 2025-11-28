@@ -6,9 +6,7 @@ zekt.dev - the ambition is to orchestrate the future &amp; to ease workflow coll
   <img src="./zekt-black.png" width="120" alt="Zekt.dev Logo"/>
 </p>
 
-<h1 align="center">⟁ - Zekt.dev</h1>
-
-<p align="center">
+<p align="left">
   <strong>Ease collaboration without having your worlds collide</strong><br>
   As developers, we know that acting programatically on events within an organization can be hard, but between organizations are even harder. With the isolation model that Github offers (which is awesome from a security perspective) it often hampers collaboration capabilities between disjointed teams or organizations - on a Github level. With Zekt - customers can overcome these roadblocks - by having Zekt act as the trusted broker of events & messaging - occuring on one side of the organization (or repository) - feeding them to their intended consumers sitting within another Github organization.
 </p>
